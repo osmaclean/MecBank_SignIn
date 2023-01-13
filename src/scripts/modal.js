@@ -9,3 +9,5 @@ for (let i = 0; i < forgotToggleModal.length; i++){
         document.getElementById(valueDataModalControl).classList.toggle("show-modal");
     });
 }
+
+

@@ -53,6 +53,8 @@
 
 .show-modal .modal {
     animation: modalAnimation 1s ease;
+    border: 4px solid var(--color-primary);
+    padding: 15px;
 }
 
 @keyframes modalAnimation {
@@ -66,4 +68,74 @@
         
 
     }
+}
+
+.inputs-modal {
+    width: 343px;
+    height: 152px;
+    margin-top: 26px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.inputs-modal span {
+    margin-top: -18px;
+    font-size: 14px;
+    color: var(--grey-2);
+    letter-spacing: 0.1em;
+    font-weight: 600;
+    position: relative;
+    top: -13px;
+    width: 300px;
+
+}
+
+.inputs-modal input {
+    margin-top: -45px;
+    display: flex;
+    flex-direction: column;
+    color: var(--grey-1);
+    border: 2px solid var(--grey-2);
+    border-radius: 8px;
+    padding: 8px;
+    width: 320px;
+    height: 30px;
+    background-color: var(--grey-6);
+    outline-style: var(--color-primary);
+}
+
+.inputs-modal input:hover {
+    border-color: var(--color-primary);;
+
+}
+
+.inputs-modal input:focus {
+    border-color: var(--color-primary);;
+
+}
+
+
+#button-reset {
+    width: 100px;
+    height: 30px;
+    position: relative;
+    left: 359px;
+    bottom: 1px;
+    border-radius: 9px;
+    border: 2px solid var(--color-primary);
+    color: white;
+    background-color: var(--color-primary);
+    cursor: pointer;
+    font-size: 15px;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+}
+
+#button-reset:hover {
+    border: 2px solid var(--color-primary);
+    color: var(--color-primary);
+    background-color: var(--grey-6);
+    font-weight: 600;
 }
