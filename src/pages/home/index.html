@@ -35,10 +35,41 @@
             <section>
                 <div class="div_inputs">
                     <span>Username</span>
-                    <input type="text" name="input_username" id="input_username"  placeholder="Enter your username here...">
+                    <input type="text" name="input_username" id="input_username"
+                        placeholder="Enter your username here...">
 
-                    <span>Username</span>
+                    <span>Password</span>
+                    <input type="password" name="input_password" id="input_password"
+                        placeholder="Enter your password here...">
                 </div>
+
+                <div class="div_forgot">
+                    <button class="sigin_button">Sign In</button>
+                    <button class="button_forgot" data-modal-forgot="forgot">Forgot your password?</button>
+                    <!--Modal-->
+                    <div class="modal-wrapper" id="forgot">
+                        <div class="modal">
+                            <div class="modal-header">
+                                <h3 class="modal-title">Reset your password now!</h3>
+                                <button class="modal-close">X</button>
+                            </div>
+                            <div class="modal-body">
+                                <span>Password</span>
+                                <input type="password" name="input_password" id="input_password"
+                                    placeholder="Enter your password here...">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+
+
+                <div class="div_signup">
+                    <p>Don't have an account?</p>
+                    <h4>Sign up</h4>
+                </div>
+
             </section>
         </div>
 
