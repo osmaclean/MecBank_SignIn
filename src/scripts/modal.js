@@ -10,4 +10,9 @@ for (let i = 0; i < forgotToggleModal.length; i++){
     });
 }
 
+const buttonReset = document.getElementById("button-reset");
+
+buttonReset.addEventListener("click", function () {
+    alert(`Senha redefinida com sucesso!`);
+});
 
