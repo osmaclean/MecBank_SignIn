@@ -37,3 +37,13 @@
 ###  Criar estrutura HTML5 e estilização via CSS3. Aplicado o efeito "hover" nos botões e inputs. Funcionalidade criada com JavaScript.
 
 ![modalMecBank](https://user-images.githubusercontent.com/115199808/213560492-2671ca2e-a442-42ce-bfd3-ec375ef654a3.gif)
+
+<hr> 
+
+# IDE Utilizada
+
+<div> 
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+
