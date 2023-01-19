@@ -29,3 +29,11 @@
 ### Criar estrutura HTML5 e estilização via CSS3. Aplicado o efeito "hover" nos botões. Único com funcionalidade é o botão "Forgot your password?".
 
 ![botoesmecbank](https://user-images.githubusercontent.com/115199808/212566394-dad286f2-c697-4728-8e13-94759cb02eaf.gif)
+
+<hr> 
+
+## Parte 4 - Funcionalidade Modal
+
+###  Criar estrutura HTML5 e estilização via CSS3. Aplicado o efeito "hover" nos botões e inputs. Funcionalidade criada com JavaScript.
+
+![modalMecBank](https://user-images.githubusercontent.com/115199808/213560492-2671ca2e-a442-42ce-bfd3-ec375ef654a3.gif)
