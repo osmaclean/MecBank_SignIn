@@ -40,7 +40,7 @@
 
 <hr> 
 
-## Link do Deploy (Vercel)
+## Link de Acesso ao Projeto (Vercel)
 
 https://mec-bank-sign-in.vercel.app/
 
