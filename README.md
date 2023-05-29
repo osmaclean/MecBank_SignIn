@@ -25,6 +25,9 @@ Modo Desktop 💻
 
 ![botoesmecbank](https://user-images.githubusercontent.com/115199808/212566394-dad286f2-c697-4728-8e13-94759cb02eaf.gif)
 
+Figma do Projeto construído por mim, clique abaixo! <br>
+[![portfolio](https://img.shields.io/badge/-CLIQUE%20AQUI-yellowgreen)](https://www.figma.com/file/OxnwMNo0gImVdemyprnRMo/SigIn-Page?type=design&t=I7VUFgEUWHKYBMbz-1)
+
 <hr> 
 
 # Estrutura do projeto
@@ -59,9 +62,3 @@ Deploy realizado pela plataforma Vercel. Clique no botão abaixo e acesse o proj
 
 ## Como rodar
 Clone esse repositório em um diretório na sua máquina local, abra o diretório utilizando a sua IDE de preferência e/ou abra o arquivo ```.hmtl``` em seu navegador.
-
-
-
-
-
-
